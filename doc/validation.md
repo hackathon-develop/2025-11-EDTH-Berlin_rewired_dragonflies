@@ -32,3 +32,24 @@
     - hours per fight group
     - is this difficult / least liked work
     - is there a lack of knowledge / experience at the frontline for that work 
+
+# frontline tech
+
+## flightcontrollers used at frontline
+ 
+- ardupilot based % ?
+
+- betaflight based % ?
+
+- inav based % ?
+
+## hardware components used at frontline
+
+- different motors with percentages
+
+- different FCs with percentages
+
+- different ESCs with percentages
+
+- used sensors (GPS, Air Presssure, Accel, IMU, Air Flow, Visual Flow, .... ) with percentages
+
