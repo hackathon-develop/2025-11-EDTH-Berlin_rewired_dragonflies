@@ -9,7 +9,7 @@
 - https://oscarliang.com/flight-controller/
 
 - https://hcrobo.com/diy-drone-build-installing-and-configuring-a-flight-controller-for-drones/
-- 
+  
 - https://fusion.engineering/flight-controllers-explained-for-everyone
 
 
